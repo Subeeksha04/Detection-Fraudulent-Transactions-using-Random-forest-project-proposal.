@@ -1,0 +1,2 @@
+# Detection-Fraudulent-Transactions-using-Random-forest-project-proposal.
+This project focuses on designing and developing an intelligent fraud detection system that uses machine learning to identify suspicious financial transactions. By applying the Random Forest algorithm, the system can learn from historical transaction data and detect patterns that distinguish fraudulent transactions from legitimate ones.
